@@ -1,1 +1,2 @@
-# QG-STEC-
+# QG-STEC
+Reevaluated QG-STEC data.
