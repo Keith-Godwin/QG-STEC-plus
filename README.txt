@@ -1,13 +1,14 @@
 ﻿Re-evaluation of the Question Generation Shared Task & Evaluation Challenge (QG-STEC) 2010 Task B Questions from declarative sentences.
-Keith Godwin
 
-Contact
-=======
+CONTACT INFORMATION
+===================
 
-Any queries please contact:
+Keith Godwin <keith.godwin@open.ac.uk>
+Paul Piwek <paul.piwek@open.ac.uk> 
 
-Keith.Godwin@open.ac.uk
-Paul.Piwek@open.ac.uk
+School of Computing and Communications
+Faculty of Science, Technology, Engineering and Mathematics
+The Open University, United Kingdom
 
 Overview
 ========
