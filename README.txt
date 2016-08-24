@@ -1,12 +1,26 @@
 ﻿Re-evaluation of the Question Generation Shared Task & Evaluation Challenge (QG-STEC) 2010 Task B Questions from declarative sentences.
 Keith Godwin
 
+Contact
+=======
+
+Any queries please contact:
+
+Keith.Godwin@open.ac.uk
+Paul.Piwek@open.ac.uk
+
 Overview
 ========
 
 This zip file contains the data I used to realise the aim and objectives of my research project. The data files have been grouped by the relevant objective.
 
 The aim of the research was to obtain a more accurate picture of the state-of-the-art of question generation by improving the quality of the QG-STEC data and re-analysing that data.
+
+As a result of this research, we published a short paper at the INLG-2016 in Edinburgh (September 7-8, 2016). 
+
+	INLG_Godwin_Piwek_2016.pdf
+
+
 
 CONTENTS of QGSTEC2010-ReEvaluation.zip
 =======================================
